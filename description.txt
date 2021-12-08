@@ -15,5 +15,7 @@ Idea by: Zane#1535, Gameing to the Max#2016, and Lite#4249.
 
 Changelog:
 
+1.1
+	Renamed from "Glass Cannon M0d" to "Glass Cannon Mod"!
 1.0
 Initial upload to 1.4 mod browser. Regular updates may come periodically depending on feedback and new ideas.

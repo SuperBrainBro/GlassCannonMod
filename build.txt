@@ -1,4 +1,4 @@
-displayName = Glass Cannon M0d
+displayName = Glass Cannon Mod
 author = Vincent Jenei (Lite#4249)
 version = 1.0
 homepage = https://discord.gg/WHMg38mXs8
